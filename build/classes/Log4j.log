@@ -1,0 +1,724 @@
+ERROR   2016-09-01 18:15:20,171 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - /index.jsp (line: 59, column: 4) No tag "tabletag" defined in tag library imported with prefix "mytag"
+ERROR   2016-09-01 18:32:31,178 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - /index.jsp (line: 59, column: 4) Unable to load tag handler class "ua.nure.kolodiazhny.SummaryTask04.usertag.TableTag" for tag "mytag:tabletag"
+ERROR   2016-09-01 18:40:54,650 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-01 18:41:55,364 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-01 18:41:56,983 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-01 18:45:39,091 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 00:21:33,654 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 00:52:34,719 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 00:52:39,930 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 00:52:57,969 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 00:53:11,470 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 00:53:27,484 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 00:53:31,785 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:00:02,849 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:00:06,380 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:00:07,200 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:00:41,763 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:00:44,338 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:00:45,847 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:00:48,201 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:00:49,919 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:01:02,609 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'name' in 'field list'
+ERROR   2016-09-02 01:01:02,640 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-02 01:01:03,132 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:01:11,120 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:01:20,475 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:01:21,762 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:01:23,209 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:01:24,225 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:01:24,808 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:06:07,742 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:07:22,046 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:11:56,922 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:11:59,526 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:12:00,780 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:12:02,132 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:12:08,848 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:12:13,344 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:12:13,994 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:12:32,500 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:14:13,767 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:21:27,050 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:21:40,738 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:21:44,145 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:21:45,271 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:22:00,342 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:22:02,734 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 01:22:20,248 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'name' in 'field list'
+ERROR   2016-09-02 01:22:20,249 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-02 01:22:20,596 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 15:57:59,971 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - The last packet successfully received from the server was 52 574 704 milliseconds ago.  The last packet sent successfully to the server was 52 574 705 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+ERROR   2016-09-02 15:58:09,095 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - The last packet successfully received from the server was 52 568 774 milliseconds ago.  The last packet sent successfully to the server was 52 568 775 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+ERROR   2016-09-02 15:58:27,612 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - The last packet successfully received from the server was 52 584 880 milliseconds ago.  The last packet sent successfully to the server was 52 584 881 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+ERROR   2016-09-02 15:58:36,675 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - The last packet successfully received from the server was 52 576 426 milliseconds ago.  The last packet sent successfully to the server was 52 576 426 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+ERROR   2016-09-02 16:01:22,320 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 16:01:28,672 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 16:01:33,230 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 16:01:58,688 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'name' in 'field list'
+ERROR   2016-09-02 16:01:58,690 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-02 16:01:59,006 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 17:55:17,413 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 17:55:17,533 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 17:55:33,622 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 17:55:33,641 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 17:55:37,545 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 17:55:37,547 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 17:56:19,862 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'is_admin' in 'field list'
+ERROR   2016-09-02 17:56:19,864 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-02 17:56:19,978 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 17:56:20,175 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 17:56:51,500 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 17:56:51,535 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 17:56:54,030 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 17:56:54,033 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 17:56:56,932 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 17:56:56,965 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 17:56:58,377 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 17:56:58,380 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 17:57:03,316 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 17:57:03,347 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 17:57:05,146 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 17:57:05,149 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 18:40:21,760 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 18:41:03,565 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:32:22,193 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:32:22,220 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:32:24,856 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:32:24,859 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:32:26,696 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:32:26,714 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:32:29,248 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:32:29,251 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:32:31,959 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:32:31,979 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:35:09,964 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:35:09,994 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:35:13,176 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:35:13,181 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:35:15,335 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:35:15,354 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:57:17,063 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:57:17,088 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:59:12,119 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:59:12,145 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:59:13,793 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:59:13,795 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-02 19:59:15,320 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-02 19:59:15,325 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 00:31:53,893 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-03 00:31:54,653 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 00:32:26,929 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-03 00:32:26,956 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 00:32:47,174 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-03 00:32:47,201 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 00:32:48,638 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-03 00:32:48,672 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 00:33:31,687 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'is_admin' in 'field list'
+ERROR   2016-09-03 00:33:31,689 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-03 00:33:31,695 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-03 00:33:31,969 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 00:41:39,142 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-03 00:41:39,240 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 00:42:03,360 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.PublicationDao  - Invalid value for getInt() - 'Юнайтед Пресс'
+ERROR   2016-09-03 00:42:03,416 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:08:43,496 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:14:01,756 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:14:04,058 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:14:05,701 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:14:13,082 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:14:15,412 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:14:16,765 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:29:44,221 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:29:46,811 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:29:48,009 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:29:49,095 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:29:50,300 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:29:52,071 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:29:54,442 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:30:07,362 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 01:30:46,250 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 03:39:44,739 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 03:40:52,794 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 03:41:20,838 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 03:44:30,882 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 03:45:19,116 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 03:45:55,868 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'is_admin' in 'field list'
+ERROR   2016-09-03 03:45:55,870 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-03 03:45:55,911 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 03:46:25,565 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 03:46:57,890 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'is_admin' in 'field list'
+ERROR   2016-09-03 03:46:57,891 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-03 03:46:57,935 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 03:47:00,100 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 12:44:11,431 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 12:44:29,717 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 12:45:17,825 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 12:46:32,669 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.ScoreDao  - Table 'periodical.card' doesn't exist
+ERROR   2016-09-03 12:48:33,588 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.dao.ScoreDao  - Table 'periodical.card' doesn't exist
+ERROR   2016-09-03 12:51:34,333 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 12:53:02,131 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 12:53:49,309 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.dao.ScoreDao  - Table 'periodical.card' doesn't exist
+ERROR   2016-09-03 12:56:52,886 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 12:56:59,049 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 12:57:29,518 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 12:57:59,484 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.ScoreDao  - Unknown column 'number' in 'where clause'
+ERROR   2016-09-03 13:07:29,133 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 13:07:57,621 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.ScoreDao  - Unknown column 'number' in 'where clause'
+ERROR   2016-09-03 13:12:21,801 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 13:12:36,824 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 13:12:49,649 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'user_id' in 'field list'
+ERROR   2016-09-03 13:12:49,650 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-03 13:13:00,601 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 13:13:46,019 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'user_id' in 'field list'
+ERROR   2016-09-03 13:13:46,020 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-03 13:57:03,244 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 13:57:45,773 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 13:58:20,745 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 13:58:55,229 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Field 'id' doesn't have a default value
+ERROR   2016-09-03 13:58:55,229 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-03 14:03:49,641 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 14:03:56,170 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 14:04:17,900 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 14:04:31,383 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Field 'id' doesn't have a default value
+ERROR   2016-09-03 14:04:31,384 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-03 14:17:35,271 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 14:17:53,555 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 14:18:20,941 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 14:18:41,089 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Field 'id' doesn't have a default value
+ERROR   2016-09-03 14:18:41,090 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-03 14:22:45,931 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 14:23:02,546 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 14:23:17,496 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-03 14:41:10,253 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 14:41:49,188 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 14:42:25,814 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:07:21,063 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:07:33,131 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:07:36,341 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:07:38,950 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:08:26,905 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:13:13,593 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:16:35,345 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:16:44,202 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:16:47,608 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:28:19,742 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:28:26,842 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:50:11,523 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:50:24,136 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:54:11,151 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:54:12,998 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:54:14,394 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:54:15,975 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:54:54,616 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 15:55:13,453 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 16:07:16,295 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 16:25:26,598 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 16:25:34,999 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 16:42:11,857 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 16:42:25,108 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 16:47:07,917 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 16:47:40,348 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 16:55:26,307 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 16:55:34,468 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:08:22,488 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - An exception occurred processing JSP page /admin_page.jsp at line 120
+
+117:             <form  class="form-group" action="ChangeUser" method="post">
+118:                 <tr>
+119:                     <td>
+120:                         <input class="form-control" name="username" type="text" value="${use.name}" />
+121:                     </td>
+122:                     <td>
+123:                         <input class="form-control" name="email" type="text" value="${use.login}" />
+
+
+Stacktrace:
+ERROR   2016-09-03 17:08:28,319 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - An exception occurred processing JSP page /admin_page.jsp at line 120
+
+117:             <form  class="form-group" action="ChangeUser" method="post">
+118:                 <tr>
+119:                     <td>
+120:                         <input class="form-control" name="username" type="text" value="${use.name}" />
+121:                     </td>
+122:                     <td>
+123:                         <input class="form-control" name="email" type="text" value="${use.login}" />
+
+
+Stacktrace:
+ERROR   2016-09-03 17:27:59,862 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:28:06,688 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:28:08,104 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:28:12,542 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:28:13,787 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:28:14,637 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:28:28,112 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:30:40,863 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - /index.jsp (line: 59, column: 4) Attribute user invalid for tag tabletag according to TLD
+ERROR   2016-09-03 17:30:43,735 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:30:49,104 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - /index.jsp (line: 59, column: 4) Attribute user invalid for tag tabletag according to TLD
+ERROR   2016-09-03 17:44:53,214 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:45:02,687 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:46:57,460 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:47:04,383 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:48:47,549 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 17:48:56,934 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:02:40,457 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:03:02,223 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:04:13,643 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:07:22,153 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:10:26,595 [http-nio-8080-exec-11] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - An exception occurred processing JSP page /admin_page.jsp at line 121
+
+118:             <form  class="form-group" action="ChangeUser" method="post">
+119:                 <tr>
+120:                     <td>
+121:                         <input class="form-control" name="username" type="text" value="${use.name}" />
+122:                     </td>
+123:                     <td>
+124:                         <input class="form-control" name="email" type="text" value="${use.login}" />
+
+
+Stacktrace:
+ERROR   2016-09-03 18:10:31,632 [http-nio-8080-exec-12] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - An exception occurred processing JSP page /admin_page.jsp at line 121
+
+118:             <form  class="form-group" action="ChangeUser" method="post">
+119:                 <tr>
+120:                     <td>
+121:                         <input class="form-control" name="username" type="text" value="${use.name}" />
+122:                     </td>
+123:                     <td>
+124:                         <input class="form-control" name="email" type="text" value="${use.login}" />
+
+
+Stacktrace:
+ERROR   2016-09-03 18:10:40,737 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - An exception occurred processing JSP page /admin_page.jsp at line 120
+
+117:             <form  class="form-group" action="ChangeUser" method="post">
+118:                 <tr>
+119:                     <td>
+120:                         <input class="form-control" name="username" type="text" value="${use.name}" />
+121:                     </td>
+122:                     <td>
+123:                         <input class="form-control" name="email" type="text" value="${use.login}" />
+
+
+Stacktrace:
+ERROR   2016-09-03 18:14:32,847 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - An exception occurred processing JSP page /admin_page.jsp at line 66
+
+63:             <form  class="form-group" action="ChangePublication" method="post">
+64:                 <tr>
+65:                     <td>
+66:                         <input class="form-control" name="issn" type="text" value="${pub.issn}" />
+67:                     </td>
+68:                     <td>
+69:                         <input class="form-control" name="title" type="text" value="${pub.title}" />
+
+
+Stacktrace:
+ERROR   2016-09-03 18:15:08,013 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:15:11,699 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - javax.el.PropertyNotFoundException: Property 'issn' not found on type ua.nure.kolodiazhny.SummaryTask04.entities.Publication
+ERROR   2016-09-03 18:15:17,987 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:15:26,537 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - javax.el.PropertyNotFoundException: Property 'issn' not found on type ua.nure.kolodiazhny.SummaryTask04.entities.Publication
+ERROR   2016-09-03 18:15:40,032 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - javax.el.PropertyNotFoundException: Property 'issn' not found on type ua.nure.kolodiazhny.SummaryTask04.entities.Publication
+ERROR   2016-09-03 18:16:09,843 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - javax.el.PropertyNotFoundException: Property 'issn' not found on type ua.nure.kolodiazhny.SummaryTask04.entities.Publication
+ERROR   2016-09-03 18:16:38,219 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:16:39,108 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:17:03,818 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - javax.el.PropertyNotFoundException: Property 'issn' not found on type ua.nure.kolodiazhny.SummaryTask04.entities.Publication
+ERROR   2016-09-03 18:19:27,043 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:22:46,550 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 18:22:56,382 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 19:29:04,497 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 19:29:16,349 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 20:12:11,151 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 20:12:23,407 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 20:12:55,742 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 20:23:00,049 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 20:23:10,976 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 20:23:17,172 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 20:27:38,212 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 20:28:06,322 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 20:33:09,540 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 20:45:27,955 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 21:58:34,446 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 21:58:47,277 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 21:58:50,963 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 21:58:52,476 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 21:59:03,229 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:00:14,965 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:14:44,192 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:14:51,003 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:14:52,673 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:15:23,189 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:15:38,815 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:15:42,683 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:15:43,642 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:15:44,490 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:15:45,145 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:34:26,972 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - <h3>Validation error messages from TagLibraryValidator for fmt in /index.jsp</h3><p>13: A body is necessary inside the "fmt:message" tag, given its attributes.</p>
+ERROR   2016-09-03 22:35:11,400 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:51:57,163 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:53:09,163 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:53:12,878 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:53:14,773 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:53:15,938 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:53:16,574 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:53:17,146 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:53:17,622 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:53:18,093 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:53:18,540 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:53:18,989 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:13,235 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:30,510 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:34,458 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:35,529 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:36,381 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:37,094 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:37,742 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:38,475 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:39,101 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:39,612 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:40,061 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:40,484 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:40,934 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:41,476 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:42,005 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 22:54:42,431 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:12,386 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:15,105 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:16,257 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:17,277 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:22,546 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:23,939 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:25,252 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:26,277 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:26,801 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:27,372 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:27,900 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:28,340 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:07:28,716 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:11:15,912 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:12:58,799 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:13:45,366 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:13:48,970 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:13:50,723 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:13:53,919 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:13:55,155 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:14:03,823 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:50:38,064 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:50:52,037 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:50:54,151 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:51:14,258 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:51:19,206 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:51:24,076 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:52:17,713 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:55:10,276 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-03 23:55:40,242 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:00:08,589 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:00:21,913 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:02:13,795 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:02:47,817 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:06:17,928 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:06:25,980 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:07:45,520 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:09:05,027 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:09:15,275 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:09:24,409 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:09:44,343 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:09:58,476 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:13:10,513 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:13:25,991 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:13:43,678 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:13:54,437 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:16:39,850 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:16:52,188 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:17:13,635 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:20:53,141 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:32:53,988 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:32:56,662 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:32:59,736 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 00:33:01,516 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 01:17:11,608 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 01:17:32,801 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 01:29:42,576 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 01:43:37,044 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 01:43:39,382 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 10:30:08,815 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.UserDao  - The last packet successfully received from the server was 32 844 605 milliseconds ago.  The last packet sent successfully to the server was 32 844 606 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+ERROR   2016-09-04 10:30:28,491 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.dao.UserDao  - The last packet successfully received from the server was 32 864 161 milliseconds ago.  The last packet sent successfully to the server was 32 864 161 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+ERROR   2016-09-04 10:31:00,397 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 10:31:10,608 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 10:31:59,892 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 10:35:17,962 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 10:35:48,744 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 11:27:17,914 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 11:27:46,535 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - No value specified for parameter 4
+ERROR   2016-09-04 11:27:46,537 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-04 11:27:46,584 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 11:30:58,184 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - No value specified for parameter 4
+ERROR   2016-09-04 11:30:58,185 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-04 11:30:58,232 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 11:35:52,031 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - No value specified for parameter 4
+ERROR   2016-09-04 11:35:52,034 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-04 11:35:52,090 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 11:39:24,224 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - No value specified for parameter 4
+ERROR   2016-09-04 11:39:24,227 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-04 11:39:24,285 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 13:16:12,546 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - No value specified for parameter 4
+ERROR   2016-09-04 13:16:12,549 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-04 13:16:12,597 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 13:21:56,185 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'number' in 'field list'
+ERROR   2016-09-04 13:21:56,188 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-04 13:21:56,245 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 13:26:41,752 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'number' in 'field list'
+ERROR   2016-09-04 13:26:41,755 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-04 13:26:41,809 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 13:43:51,672 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'number' in 'field list'
+ERROR   2016-09-04 13:43:51,675 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-04 13:43:51,719 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 13:48:58,509 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Unknown column 'number' in 'field list'
+ERROR   2016-09-04 13:48:58,511 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.dao.DaoFactory  - Не верное значение ID
+ERROR   2016-09-04 13:48:58,560 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 14:08:07,980 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:43:58,490 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:44:07,024 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:44:12,590 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:44:14,135 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:44:15,485 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:44:51,154 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:46:27,778 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:48:41,055 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:48:50,163 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:49:07,787 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:49:09,306 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 19:50:02,405 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:07:08,069 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:07:22,281 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:14:41,101 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:16:08,270 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.dao.UserDao  - Parameter index out of range (2 > number of parameters, which is 1).
+ERROR   2016-09-04 22:17:48,513 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:23:46,538 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:25:36,295 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:40:26,283 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:47:33,317 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:48:14,921 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:50:19,583 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:50:49,000 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:51:48,132 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:51:49,600 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:51:50,845 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:51:51,972 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:51:53,212 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:51:54,230 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:51:55,549 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:58:45,839 [http-nio-8080-exec-11] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 22:58:50,298 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 23:05:29,437 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 23:05:40,578 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-04 23:06:23,194 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:02:07,980 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - /listUser.jsp (line: 58, column: 4) Attribute periodicals invalid for tag tabletag according to TLD
+ERROR   2016-09-05 01:02:57,751 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:04:35,098 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:04:39,316 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:04:41,147 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:04:42,468 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:04:43,725 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:09:43,023 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:09:54,688 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:09:59,517 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:10:00,475 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:10:02,478 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:10:04,641 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:10:06,648 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:10:11,694 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:12:37,069 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:13:06,647 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:13:25,837 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:15:35,363 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:15:38,874 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:15:39,970 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:17:15,859 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:17:28,535 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:18:06,003 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:20:08,576 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:20:53,729 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:21:03,460 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:22:36,593 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:23:41,012 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:24:04,268 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:29:55,007 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:44:40,158 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:45:12,698 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:48:12,534 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:48:23,864 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:48:47,386 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:48:49,279 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:48:50,665 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:48:51,698 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:48:53,097 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:48:55,006 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:49:10,584 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:59:12,994 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 01:59:37,522 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:00:06,924 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:07:31,555 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:07:48,609 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:09:48,363 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:10:09,468 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:10:58,945 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:11:09,147 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:11:12,382 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:11:14,398 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:11:39,429 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:11:55,787 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - Servlet execution threw an exception
+ERROR   2016-09-05 02:12:57,355 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - Servlet execution threw an exception
+ERROR   2016-09-05 02:13:58,458 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:17:30,698 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:17:41,399 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:17:58,703 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - Servlet execution threw an exception
+ERROR   2016-09-05 02:22:08,493 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:22:23,460 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:22:42,040 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:23:35,578 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:23:46,492 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:23:50,854 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:23:52,633 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:24:08,983 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:24:24,650 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:25:28,911 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:27:54,563 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:28:13,146 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:29:20,408 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:35:25,796 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:35:41,191 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:36:00,564 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:37:26,903 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:37:39,167 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.read.IndexFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:38:17,203 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:38:53,949 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:42:45,610 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:43:22,510 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:43:40,352 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:47:27,376 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:47:45,301 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:48:26,283 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - Servlet execution threw an exception
+ERROR   2016-09-05 02:48:50,992 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - Filter execution threw an exception
+ERROR   2016-09-05 02:49:36,037 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - Filter execution threw an exception
+ERROR   2016-09-05 02:53:12,287 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:53:34,898 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:54:16,976 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:54:33,158 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:54:43,950 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:54:46,639 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:54:48,033 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:55:28,393 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:55:51,689 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:56:57,737 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:57:15,896 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:57:20,545 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 02:58:30,236 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 09:42:56,654 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 09:43:02,991 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 09:43:25,938 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 09:44:26,376 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 09:44:29,246 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 09:45:21,596 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:09:25,816 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:09:27,825 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:33:03,822 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:33:05,408 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:33:31,311 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:34:14,972 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:35:19,533 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:36:52,048 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:37:04,206 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:38:50,770 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:43:12,325 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:44:58,385 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:46:43,481 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:53:05,796 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:54:30,979 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:54:52,475 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:55:47,941 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 10:59:59,633 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:04:26,165 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:04:34,049 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:06:46,005 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:09:19,674 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:09:43,378 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:10:49,271 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:22:03,374 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:24:28,268 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - An exception occurred processing JSP page /catalog.jsp at line 50
+
+47:             <form  class="form-group" action="ChangePublication" method="post">
+48:                 <tr>
+49:                     <td>
+50:                         <input class="form-control" name="issn" type="text" value="${pub.getName}" />
+51:                     </td>
+52:                     <td>
+53:                         <input class="form-control" name="title" type="text" value="${pub.number}" />
+
+
+Stacktrace:
+ERROR   2016-09-05 11:30:38,952 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - /catalog.jsp (line: 76, column: 4) No tag "tabletag2" defined in tag library imported with prefix "mytag"
+ERROR   2016-09-05 11:31:04,812 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:42:33,791 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - /catalog.jsp (line: 46, column: 58) equal symbol expected
+ERROR   2016-09-05 11:42:53,599 [http-nio-8080-exec-1] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:43:19,348 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:43:56,150 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:47:15,400 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:55:01,618 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:55:41,431 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:56:06,012 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - An exception occurred processing JSP page /catalog.jsp at line 50
+
+47:             <form  class="form-group" action="ChangePublication" method="post">
+48:                 <tr>
+49:                     <td>
+50:                         <input class="form-control" name="issn" type="text" value="${pub.getName}" />
+51:                     </td>
+52:                     <td>
+53:                         <input class="form-control" name="title" type="text" value="${pub.number}" />
+
+
+Stacktrace:
+ERROR   2016-09-05 11:56:24,335 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 11:57:53,731 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:00:36,891 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:02:10,276 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:02:27,323 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:03:07,658 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:03:55,379 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:04:11,849 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:05:50,344 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:08:38,865 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:10:36,291 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:18:40,132 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:29:47,756 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:31:36,426 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:31:36,461 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:31:38,820 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:36:15,096 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:37:24,224 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:41:16,751 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:48:10,595 [http-nio-8080-exec-9] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - /catalog.jsp (line: 68, column: 0) Unterminated &lt;c:out tag
+ERROR   2016-09-05 12:48:19,798 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:49:42,822 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:50:45,666 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:51:32,165 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:55:34,763 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - javax.el.PropertyNotFoundException: Property 'number' not found on type ua.nure.kolodiazhny.SummaryTask04.entities.Score
+ERROR   2016-09-05 12:56:06,764 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - javax.el.PropertyNotFoundException: Property 'number' not found on type ua.nure.kolodiazhny.SummaryTask04.entities.Score
+ERROR   2016-09-05 12:57:41,977 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 12:57:59,285 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - javax.el.PropertyNotFoundException: Property 'number' not found on type ua.nure.kolodiazhny.SummaryTask04.entities.Score
+ERROR   2016-09-05 12:58:00,647 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - javax.el.PropertyNotFoundException: Property 'number' not found on type ua.nure.kolodiazhny.SummaryTask04.entities.Score
+ERROR   2016-09-05 13:01:28,989 [http-nio-8080-exec-2] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 13:06:52,669 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2016-09-05 13:09:31,705 [http-nio-8080-exec-10] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2017-01-24 00:51:18,926 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.IllegalStateException: Exception occurred when flushing data
+ERROR   2017-01-24 00:52:34,614 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - /contact.jsp (line: 48, column: 1) No tag "header" defined in tag library imported with prefix "my"
+ERROR   2017-01-24 00:52:41,536 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - /contact.jsp (line: 48, column: 1) No tag "header" defined in tag library imported with prefix "my"
+ERROR   2017-01-24 01:39:03,009 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - The absolute uri: http://java.sun.com/jsp/jstl/fmt cannot be resolved in either web.xml or the jar files deployed with this application
+ERROR   2017-01-24 01:39:29,065 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.subscribtion.ClaimFilterScore  - The absolute uri: http://java.sun.com/jsp/jstl/fmt cannot be resolved in either web.xml or the jar files deployed with this application
+ERROR   2017-01-24 01:39:34,853 [http-nio-8080-exec-7] ua.nure.kolodiazhny.SummaryTask04.subscribtion.ClaimFilterScore  - The absolute uri: http://java.sun.com/jsp/jstl/fmt cannot be resolved in either web.xml or the jar files deployed with this application
+ERROR   2017-01-24 01:40:04,111 [http-nio-8080-exec-8] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - The absolute uri: http://java.sun.com/jsp/jstl/core cannot be resolved in either web.xml or the jar files deployed with this application
+ERROR   2017-01-25 01:43:31,643 [http-nio-8080-exec-6] ua.nure.kolodiazhny.SummaryTask04.connection.ConnectionPool  - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+ERROR   2017-01-25 23:08:27,080 [http-nio-8080-exec-3] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - The absolute uri: http://java.sun.com/jsp/jstl/fmt cannot be resolved in either web.xml or the jar files deployed with this application
+ERROR   2017-01-25 23:08:43,159 [http-nio-8080-exec-4] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - The absolute uri: http://java.sun.com/jsp/jstl/fmt cannot be resolved in either web.xml or the jar files deployed with this application
+ERROR   2017-01-25 23:08:44,069 [http-nio-8080-exec-5] ua.nure.kolodiazhny.SummaryTask04.language.LanguageFilter  - java.lang.ClassNotFoundException: org.apache.jsp.index_jsp
